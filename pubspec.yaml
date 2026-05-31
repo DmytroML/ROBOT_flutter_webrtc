@@ -36,7 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   # Додаємо ці два рядки (слідкуй за відступами у 2 пробіли!):
   # 
-  flutter_webrtc: ^0.12.1
+  flutter_webrtc: ^1.4.1
   http: ^1.2.1
 
 
